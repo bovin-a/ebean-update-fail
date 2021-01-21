@@ -1,3 +1,7 @@
+Issue was fixed at version 12.6.6 of Ebean.
+
+-----------------------------------
+
 Model ```SomeModel``` has two fields:
 - id UUID
 - data JSONB
